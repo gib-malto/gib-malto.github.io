@@ -28,11 +28,12 @@ body {
   align-items: center;
   justify-content: space-between;
   color: #fff;
-  padding: 15px 20px;
+  padding: 0 20px;
 }
 
 .logo a{
-    font-size: 1.6rem;
+    font-size: 2.6rem;
+    text-decoration: line-through;
 
   font-weight: 600;
 
